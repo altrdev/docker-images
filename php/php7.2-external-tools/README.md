@@ -11,7 +11,7 @@ A simple Docker image with PHP 7.2.14 and following php ext tools:
 - xsl
 - pdo_mysql
 
-There is also Composer and AWS CLI
+There are also Composer and AWS CLI
 
 ## Usage
 
