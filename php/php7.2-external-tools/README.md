@@ -18,10 +18,10 @@ There are also Composer and AWS CLI
 Pull docker image
 
 ```
-docker pull altrdev/php7.2-external-tools
+docker pull altrdev/php7.2-external-tools:7.2
 ```
 
 ### Bitbucket pipeline
 ```
-image: altrdev/php7.2-external-tools:latest
+image: altrdev/php7.2-external-tools:7.2
 ```
